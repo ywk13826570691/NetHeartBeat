@@ -1,0 +1,14 @@
+#ifndef COMMON_H
+#define COMMON_H
+
+#define  CONFIG_DEFAULT_LOCAL_IP  "127.0.0.1"
+#define  CONFIG_DEFAULT_PORT 10296
+
+
+#define  CONFIG_RCV_BUFF_LEN 1024
+
+#define CONFIG_HEART_BEAT_STR "HELLO"
+#define CONFIG_ACK_STR "OK"
+
+#endif // COMMON_H
+
